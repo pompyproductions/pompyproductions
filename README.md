@@ -1,4 +1,10 @@
-## Hello! I'm Eren Gazioglu — a self-taught developer with a background in architecture 👋
+<img src="CLOUD-03.jpg" alt="Watercolor of white clouds on black sky."/>
+
+## Hello! I'm **Eren Gazioglu**— a self-taught developer with a background in architecture. 👋
+---
+
+
+
 
 ### Links
 
