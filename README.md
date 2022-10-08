@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I'm Eren Gazioglu — a self-taught developer with a background in architecture 👋
+
+
 
 <!--
 **pompyproductions/pompyproductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
