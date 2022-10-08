@@ -1,6 +1,10 @@
-### Hello! I'm Eren Gazioglu — a self-taught developer with a background in architecture 👋
+## Hello! I'm Eren Gazioglu — a self-taught developer with a background in architecture 👋
 
+### Links
 
+- [My personal portfolio website](https://erengazioglu.com)
+- [My LinkedIn profile](https://www.linkedin.com/in/erengazioglu/)
+- [My CodePens](https://codepen.io/pompyproductions)
 
 <!--
 **pompyproductions/pompyproductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
